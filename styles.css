@@ -218,14 +218,17 @@ a {
 }
 
 a:link {
-    color: hsl(0, 0%, 100%);
+    color: #ffffff;
 }
 
 a:visited {
-    color: hsl(0, 0%, 100%);}
+    color: #ffffff;
+}
 
 a:hover {
-    color: hsl(0, 0%, 100%);}
+    color: #ffffff;
+}
 
 a:active {
-    color: hsl(0, 0%, 100%);}
+    color: #ffffff;
+}
